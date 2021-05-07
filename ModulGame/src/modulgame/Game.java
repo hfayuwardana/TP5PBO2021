@@ -67,7 +67,7 @@ public class Game extends Canvas implements Runnable{
         this.addKeyListener(new KeyInput(handler, this));
         
         // memutar BGM
-        playSound("/Interstellar Main Theme_cut.wav");
+        playSound("/Daystar - Sugar Cookie.wav");
         
         // instansiasi kelas untuk merandom suatu nilai
         rand = new Random(); //instansiasi kelas 'Random'
